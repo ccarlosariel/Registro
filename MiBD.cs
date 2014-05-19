@@ -20,6 +20,7 @@ namespace Registro
             return Enchufe;
             //Esto es una prueba para comprobar la efectividad del GitHub
             //Los cambios tardan un rato en ser efectivos
+            // Hola mundo, como vas?
         }
     }
 }
