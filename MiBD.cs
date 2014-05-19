@@ -18,6 +18,7 @@ namespace Registro
             Enchufe.Open();
 
             return Enchufe;
+            //Esto es una prueba para comprobar la efectividad del GitHub
         }
     }
 }
